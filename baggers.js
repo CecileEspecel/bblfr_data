@@ -1072,15 +1072,15 @@ var data = {
     {
       "since": "2013-02-26",
       "name": "Cécile Especel",
-      "bio": "Développeuse puis chef de projet c'est suite à une conférence à l'Agile Tour Nantes 2010 que je m'intéresse puis me passionne pour l'agilité. Aujourd'hui chez Alyotech CSI je suis consultante en organisation. En dehors de mes activités professionnelles j'intègre en 2011 l'équipe d'Agile Nantes et participe à l'organisation des Agile Tour.",
+      "bio": "J’ai découvert les méthodes agiles en 2009 alors que j’étais développeuse. 7 ans plus tard, je suis toujours convaincue par ses vertus et j’ai évolué vers le coaching agile et la facilitation. Chez Knp Labs, j'accompagne, je soutiens, je motive nos Happy Awesome Developers et nos Supers Clients. Pour cela j'applique les principes du manifeste agile le plus possible et j'utilise les outils de l'intelligence collaborative. En dehors de mes activités professionnelles j'intègre en 2011 l'équipe d'Agile Nantes et participe à l'organisation des Agile Tour.",
       "picture": "http://www.cecile-especel.com/var/users/7831/avatar/8108/avatar_cp.jpg",
       "websites": [
         {
-          "name": "Web",
-          "url": "http://www.alyotech.fr/"
+          "name": "Blog entreprise",
+          "url": "http://knplabs.com/fr/blog/"
         },
         {
-          "name": "Web",
+          "name": "CV",
           "url": "http://www.cecile-especel.com/"
         }
       ],
@@ -1088,7 +1088,7 @@ var data = {
       "sessions": [
         {
           "title": "Introduction aux méthodes agiles",
-          "abstract": "L'agilité, vous en entendez beaucoup parler, mais concrètement, qu'est ce que c'est ?",
+          "abstract": "Atelier d'initiation qui mèle un peu de théorie à beaucoup de pratique. L'idée est de comprendre les concepts clés comme l'auto-organisation, l'amélioration continue etc.",
           "tags": [
             "Agile",
             "Serious Game"
@@ -1098,8 +1098,8 @@ var data = {
           ]
         },
         {
-          "title": "Jeux Agiles",
-          "abstract": "Animation de différents jeux agiles pour s'initier ou approfondir : Lego4Scrum, Marshmallow Challenge, ensemble de jeux courts tels que La Vache et Les Spécifications, Origami Agile etc.",
+          "title": "Serious game",
+          "abstract": "Animation de différents jeux agiles pour s'initier ou approfondir : Lego4DevOps, Lego4Scrum, Lego4Craftmanship, Marshmallow Challenge, ensemble de jeux courts tels que La Vache et Les Spécifications, Origami Agile etc.",
           "tags": [
             "Agile",
             "Serious Game"
